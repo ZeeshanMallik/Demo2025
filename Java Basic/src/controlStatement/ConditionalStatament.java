@@ -20,6 +20,7 @@ public class ConditionalStatament {
 				break;
 			}else {
 				System.out.println("InvaLid pin number");
+				System.out.println("InvaLid pin number1");
 			}
 			
 			if(i==2) {
