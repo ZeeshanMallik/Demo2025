@@ -6,6 +6,7 @@ public class PrimeNum {
 	public static void main(String[] args) {
 		
 		isPrime(17);
+		// is prime
 			}
 	
 	public static boolean isPrime(int num){
